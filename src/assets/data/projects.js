@@ -24,8 +24,8 @@ export const projects = [
     thumbnail: reactportfolio,
     title: "Professional Portfolio 2024",
     desc: "A professional portfolio site which gives informations about me, my skills, certifications, services providing, qualifications and contact information",
-    live: "",
-    github: "",
+    live: "https://main-portfolio-lyart-three.vercel.app",
+    github: "https://github.com/abid019/MainPortfolio",
   },
   {
     thumbnail: webNews,
