@@ -84,8 +84,27 @@ const Qualification = () => {
 
                   <div>
                     <span className="qualification__rounder"></span>
-                    {/* <span className="qualification__line"></span> */}
+                    <span className="qualification__line"></span>
                   </div>
+                </div>
+
+                <div className="qualification__data">
+                  <div></div>
+                  <div>
+                    <span className="qualification__rounder"></span>
+                   
+                  </div>
+
+                  <div>
+                    <h3 className="qualification__title">Software developer intern</h3>
+                    <span className="qualification__subtitle">Tann mann foundation</span>
+                    <div className="qualification__calendar">
+                      <i className="uil uil-calendar-alt"></i>
+                      March 2024 - Present
+                    </div>
+                    
+                  </div>
+                  
                 </div>
               </div>
             </div>
