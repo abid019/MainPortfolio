@@ -1,5 +1,5 @@
 import React from "react";
-import Resume from "../assets/pdf/Md Abid Hussain resume.pdf";
+import Resume from "../assets/pdf/Resume.pdf";
 import photo from "../assets/img/covers/photo.jpg"
 import DownloadIcon from "@mui/icons-material/Download";
 import { tech } from "../assets/data/data";
